@@ -3119,6 +3119,7 @@ dependencies = [
  "actix-rt",
  "actix-web",
  "byteorder",
+ "cc",
  "chardet",
  "chardetng",
  "charset-normalizer-rs",
